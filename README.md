@@ -4,6 +4,8 @@ This repository contains the code and images
 to run image classification using Google's Tesseract OCR Engine 
 through Python. 
 
+PyTesseract Installation and Documentation: https://pypi.org/project/pytesseract/
+
 This process includes the extraction of string data from the images 
 using the PyTesseract package. This data is then used to train and test 
 a Multinomial Naive Bayes classifier as well as a Logistic Regression
